@@ -1,0 +1,103 @@
+body {
+    background-color: #151515;
+}
+
+#id1 {
+    position: center;
+    height: 44px;
+    top: 68px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 44px;
+    text-align: center;
+    color: #FFFFFF;
+    vertical-align: middle;
+}
+
+#id2 {
+    width: 280px;
+    height: auto;
+    margin-left: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#id3 {
+    width: 300px;
+    height: auto;
+    left: 43px;
+    margin-left: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+#id4 {
+    width: auto;
+    height: auto;
+    left: 43px;
+    margin-left: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+#id5 {
+    position: absolute;
+    margin-left: 40px;
+    margin-right: 70px;
+    width: auto;
+    height: auto;
+    bottom: 45px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.button {
+    width: 220px;
+    height: 45px;
+    color: white;
+    margin-top: 30px;
+    border: 2px solid white;
+    background-color: #151515;
+    box-shadow: #FFFFFF 0 0 10px 0.1px;
+    border-radius: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.buttondiv {
+    position: center;
+    width: auto;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.image {
+    margin-top: 50px;
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
